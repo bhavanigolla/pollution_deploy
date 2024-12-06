@@ -1,0 +1,7 @@
+pandas
+numpy
+streamlit
+scikit-learn
+pickle 
+RandomForestClassifier
+Train_train_split
